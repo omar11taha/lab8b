@@ -1,0 +1,35 @@
+*{
+    box-sizing:border-box;
+}
+img{
+   
+   width: 200px;
+   height: 200px;
+}
+section{
+    background-color: rgb(155, 97, 179);
+    display: inline-block;
+    padding: 2%;
+}
+body{
+    background-color: rgb(223, 194, 157);
+}
+h1{
+    background-color: chocolate;
+    text-align: center;
+}
+#intro{
+    /* display: inline-block; */
+    float: left;
+    width: 50%;
+    height: 100px;
+
+}
+#staff{
+    /* display: inline-block; */
+    float: right;
+    width: 50%;
+
+}
+
+
